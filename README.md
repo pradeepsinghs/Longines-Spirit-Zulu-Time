@@ -1,2 +1,2 @@
 CHECK THE LINK  
-https://pradeepsinghs.github.io/Longines-Spirit-Zulu-Time/
+https://longines-spirit-zulu-time.netlify.app/
